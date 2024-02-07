@@ -1,4 +1,4 @@
-<p>Clarusway<img align="right"
+
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # Project-009 : Movie App (RP-09)
@@ -64,7 +64,7 @@ Build a Movie App using ReactJS.
 
 - ReactJS
 
-### At the end of the project, students will be able to;
+### At the end of the project,
 
 - improve coding skills within HTML & CSS & JS & ReactJS.
 
